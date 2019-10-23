@@ -9,7 +9,7 @@ import java.io.InputStreamReader;
 пересекаются ли два отрезка. Координаты отрезков вводятся
 вручную во время выполнения программы.
  */
-public class Task3_2 {
+public class Task3_1 {
     public static class Point {
         double x, y;
         Point(double x, double y) {
